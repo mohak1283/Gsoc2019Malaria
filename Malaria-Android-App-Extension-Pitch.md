@@ -56,6 +56,6 @@ At last, I want to refractor the UI of the Application. Currently, the UI of the
 * **Adding Profile image in User Profile Section**
 
 ### Follow me:-
-* **Twitter:** @mohak_gupta20
-* **Github:** mohak1283
+* **Twitter:** https://twitter.com/mohak_gupta20
+* **Github:** https://github.com/mohak1283
 * **Linkedin:** [mohak gupta](https://www.linkedin.com/in/mohak-gupta-885669131/)
